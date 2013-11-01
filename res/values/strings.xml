@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MeasureMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="p1">POINT 1</string>
+    <string name="p2">POINT 2</string>
+    <string name="result">Result Goes Here</string>
+
+</resources>
